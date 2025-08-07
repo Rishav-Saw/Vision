@@ -1,6 +1,9 @@
 # Vision
 Sentiment Analysis assistant
 
+## 📺Introductory Video:
+[Watch the video](https://drive.google.com/file/d/1T57pSzyM4268yrho8e0Pv-wb1GZDEE0w/view?usp=sharing)
+
 ## Requirements to run Vision:
 
 pip install -r requirements.txt\
