@@ -3,7 +3,7 @@ Sentiment Analysis assistant
 
 ## Requirements to run Vision:
 
-pip install -r requirements.txt
+pip install -r requirements.txt\
 beautifulsoup4==4.11.1
 bs4==0.0.1
 certifi==2022.9.24
