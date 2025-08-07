@@ -32,4 +32,4 @@ wolframalpha==5.0.0\
 xmltodict==0.13.0\
 playsound\
 nltk\
-textblob\
+textblob
